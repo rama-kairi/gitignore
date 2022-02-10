@@ -1,0 +1,20 @@
+### react
+
+.DS\_\*
+_.log
+logs
+\*\*/_.backup._
+\*\*/_.back.\*
+
+node_modules
+bower_components
+
+# For Mac OS X
+
+.DS_Store
+
+_.sublime_
+
+psd
+thumb
+sketch
